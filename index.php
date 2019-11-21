@@ -693,7 +693,7 @@ function submitNewOrder($data)
 			<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 			<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous" />
-
+			<link rel="icon" href="https://fkomueukhi.cf/ico.gif">
 			<title>Tugas Pemrograman Web</title>
 		</head>
 		<body>
